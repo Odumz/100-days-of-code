@@ -15,3 +15,11 @@
 **Thoughts:** I wonder how I'd build my authentication especially and other modules with their views. I know it's not far fetched though.
 
 **Link to repo:** [Image Repo App](https://github.com/Odumz/fotograph.git)
+
+### Day 2: February 04, 2021 
+
+**Today's Progress**: I connected my app to heroku for and configured autodeployments. Almost gave up due to physical stress but go #100daysofcode #day3
+
+**Thoughts:** Next I need to figure out my controllers and models.
+
+**Link to repo:** [Image Repo App](https://github.com/Odumz/fotograph.git)
