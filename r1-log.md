@@ -13,3 +13,6 @@ I had to restart the project...I figured I made a mistake somewhere in my steps.
 ### R1D3
 I connected my app to heroku for and configured autodeployments.
 
+
+### R1D4
+I added gallery migrations and models and started with the controllers. 

@@ -23,3 +23,11 @@
 **Thoughts:** Next I need to figure out my controllers and models.
 
 **Link to repo:** [Image Repo App](https://github.com/Odumz/fotograph.git)
+
+### Day 3: February 05, 2021 
+
+**Today's Progress**: I added gallery migrations and models and started with the controllers.I'm not sure of what I'm doing but I know I have to keep making moves.Thanks for something like this.
+
+**Thoughts:** Lol...I totally forgot I was going according to my thoughts...lol...what a coincidence. Anyways, we pick up tomorrow. I really need a mentor though. 
+
+**Link to repo:** [Image Repo App](https://github.com/Odumz/fotograph.git)
