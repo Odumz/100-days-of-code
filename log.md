@@ -42,9 +42,16 @@
 
 ### Day 5: February 07, 2021 
 
-**Today's Progress**: I tried to  adjust my storeImage function in the gallery controller to store the tags and collections first and return the ids when saving the image.
+**Today's Progress**: I added two models and migrations.
 
-**Thoughts:** I had a lot of chores and errands so I couldn't help but skip it at the end. I'm trying to make up with a double shift that might not count though, lol. I have to remember to add the relationships between the tables in the db [image, author, tags, collections]
+**Thoughts:** I just have to continue to push something...even though all I'm doing is not clear. Cheers #100daysofcode
 
 **Link to repo:** [Image Repo App](https://github.com/Odumz/fotograph.git)
 
+### Day 6: February 08, 2021 
+
+**Today's Progress**: I added more migrations and models as well as a controller.
+
+**Thoughts:** So I need a bit of work with the UI now. I have to do something quick so my pace doesn't slow down.
+
+**Link to repo:** [Image Repo App](https://github.com/Odumz/fotograph.git)

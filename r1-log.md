@@ -19,3 +19,6 @@ I added gallery migrations and models and started with the controllers.
 
 ### R1D5
 I actually missed day five but I'm trying to cover up by working double shifts...I think I'll still add the extra day at the end though.
+
+### R1D6
+I added more migrations and models as well as a controller....I really need a mentor and a better working schedule.
