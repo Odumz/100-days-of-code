@@ -16,3 +16,6 @@ I connected my app to heroku for and configured autodeployments.
 
 ### R1D4
 I added gallery migrations and models and started with the controllers. 
+
+### R1D5
+I actually missed day five but I'm trying to cover up by working double shifts...I think I'll still add the extra day at the end though.

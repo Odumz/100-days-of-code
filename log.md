@@ -31,3 +31,20 @@
 **Thoughts:** Lol...I totally forgot I was going according to my thoughts...lol...what a coincidence. Anyways, we pick up tomorrow. I really need a mentor though. 
 
 **Link to repo:** [Image Repo App](https://github.com/Odumz/fotograph.git)
+
+### Day 4: February 06, 2021 
+
+**Today's Progress**: I tried to  adjust my storeImage function in the gallery controller to store the tags and collections first and return the ids when saving the image. (done - 07/02/2021)
+
+**Thoughts:** I had a lot of chores and errands so I couldn't help but skip it at the end. I'm trying to make up with a double shift that might not count though, lol. I have to remember to add the relationships between the tables in the db [image, author, tags, collections]
+
+**Link to repo:** [Image Repo App](https://github.com/Odumz/fotograph.git)
+
+### Day 5: February 07, 2021 
+
+**Today's Progress**: I tried to  adjust my storeImage function in the gallery controller to store the tags and collections first and return the ids when saving the image.
+
+**Thoughts:** I had a lot of chores and errands so I couldn't help but skip it at the end. I'm trying to make up with a double shift that might not count though, lol. I have to remember to add the relationships between the tables in the db [image, author, tags, collections]
+
+**Link to repo:** [Image Repo App](https://github.com/Odumz/fotograph.git)
+
