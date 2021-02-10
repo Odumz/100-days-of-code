@@ -55,3 +55,19 @@
 **Thoughts:** So I need a bit of work with the UI now. I have to do something quick so my pace doesn't slow down.
 
 **Link to repo:** [Image Repo App](https://github.com/Odumz/fotograph.git)
+
+### Day 7: February 09, 2021 
+
+**Today's Progress**: N/A
+
+**Thoughts:** N/A
+
+**Link to repo:** [Image Repo App](https://github.com/Odumz/fotograph.git)
+
+### Day 8: February 10, 2021 
+
+**Today's Progress**: I added more migrations and models, controllers and new routes.
+
+**Thoughts:** I'll keep doing what I know and what I can. Hopefully, I'll understand better the necessary steps to take.
+
+**Link to repo:** [Image Repo App](https://github.com/Odumz/fotograph.git)

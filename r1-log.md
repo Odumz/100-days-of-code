@@ -22,3 +22,8 @@ I actually missed day five but I'm trying to cover up by working double shifts..
 
 ### R1D6
 I added more migrations and models as well as a controller....I really need a mentor and a better working schedule.
+
+### R1D7
+I practically missed it...Thank you evil Lords...Thank you body that allowed excuse and gave up
+
+### R1D8
