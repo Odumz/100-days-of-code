@@ -71,3 +71,19 @@
 **Thoughts:** I'll keep doing what I know and what I can. Hopefully, I'll understand better the necessary steps to take.
 
 **Link to repo:** [Image Repo App](https://github.com/Odumz/fotograph.git)
+### Day 9: February 11, 2021 
+
+**Today's Progress**: I added more routes.
+
+**Thoughts:** Running out of ideas Forgot to push changes.
+
+**Link to repo:** [Image Repo App](https://github.com/Odumz/fotograph.git)
+
+
+### Day 8: February 10, 2021 
+
+**Today's Progress**: I added more controller functions and new routes.
+
+**Thoughts:** Let's do more
+
+**Link to repo:** [Image Repo App](https://github.com/Odumz/fotograph.git)
